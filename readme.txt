@@ -1,1 +1,0 @@
-npm install  -g generator-jhipster@6.10.5
